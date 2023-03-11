@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "count": 0,
+      "price": 30,
+      "isInCart": false
+    },
+    {
+      "id": 2,
+      "name": "Fries",
+      "count": 0,
+      "price": 20,
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "name": "Cola",
+      "count": 0,
+      "price": 10,
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "name": "Water",
+      "count": 0,
+      "price": 5,
+      "isInCart": false
+    },
+    {
+      "id": 5,
+      "name": "Not Pepsi",
+      "price": "30",
+      "count": 0,
+      "isInCart": false
+    }
+  ]
+}
